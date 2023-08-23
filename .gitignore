@@ -1,0 +1,7 @@
+# Arquivos objeto e binários
+*.o
+fat-sys
+
+# Arquivos que simulam o disco 
+imagem-pronta 
+nova-imagem
